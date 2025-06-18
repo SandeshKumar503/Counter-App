@@ -8,6 +8,10 @@ body {
 .container {
   display: inline-block;
 }
+ 
+p{
+  font-weight: 800;
+}
 
 .buttons {
   display: flex;
